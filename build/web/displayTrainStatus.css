@@ -1,0 +1,47 @@
+
+/* 
+    Created on : 15 Aug, 2024, 2:05:51 PM
+    Author     : Nirmala
+*/
+body {
+    background-color: #f0f0f0; 
+    font-family: Arial, sans-serif;
+    color: #333; 
+    margin: 0;
+    padding: 20px;
+}
+
+h2 {
+    color: #444;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 12px;
+    text-align: center;
+}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+td {
+    background-color: #ffffff;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+
